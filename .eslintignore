@@ -1,0 +1,6 @@
+# Ignore node modules and build:
+node_modules/
+build/
+
+react-app-env.d.ts
+reportWebVitals.ts
